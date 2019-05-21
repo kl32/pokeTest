@@ -1,0 +1,25 @@
+{
+  "name": "poketest",
+  "version": "1.0.0",
+  "description": "la",
+  "main": "pokemonTest.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kl32/pokeTest.git"
+  },
+  "keywords": [
+    "poke"
+  ],
+  "author": "km",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kl32/pokeTest/issues"
+  },
+  "homepage": "https://github.com/kl32/pokeTest#readme",
+  "dependencies": {
+    "mocha": "^6.1.4"
+  }
+}
